@@ -1,0 +1,57 @@
+.topnav {
+  background-color: #2E2E2E;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font: bolder
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: #DF013A;
+  color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+
+.sfs {
+       margin-top: 10;
+       height: 200px;
+       width: 400px;
+}
+.Contact{
+          color: white;
+          font-size: 20px;
+          text-align: center;
+          margin-top: 50px;
+          font-family: 'Secular One', sans-serif;'
+}
+.cont{
+  color: white;
+  text-align: center;
+  font-family: 'Secular One', sans-serif;
+}
+.about{
+        color: white;
+        font-family: 'Secular One', sans-serif;
+        text-align: center;
+        font-size: 30px;
+}
